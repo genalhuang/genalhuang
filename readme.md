@@ -1,11 +1,8 @@
-## HI! My name is genaller😊 
+## HI! My name is genaller 😃 
 
-- 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+- 💖 I like front-end development!
 
-
-- like 🏊🏻‍♂️
-
-- ✍️ writing article to sharing
+- 🏊🏻‍♂️ I like swimming.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=genaller)](https://github.com/anuraghazra/github-readme-stats)
