@@ -1,5 +1,4 @@
 ## HI! My name is genaller 😃 
-
 - 💖 I like front-end development!
 
 - 🏊🏻‍♂️ I like swimming.
