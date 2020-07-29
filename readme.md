@@ -1,11 +1,11 @@
-## HI! My name is genaller 😃 
+### HI! My name is genaller 😃 
 - 💖 I like front-end development!
 - 🏊🏻‍♂️ I like swimming.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=genaller)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tech Stack
+### Tech Stack
 <table>
   <tbody>
     <tr valign="top">
