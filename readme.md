@@ -11,7 +11,7 @@
   <tbody>
     <tr valign="top">
       <td width="20%" align="center"
-      bgcolor='#141321' style='color:#fff'>
+      bgcolor='#141321' color='red'>
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
