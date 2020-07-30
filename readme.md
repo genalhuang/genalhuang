@@ -11,41 +11,41 @@
   <tbody>
     <tr valign="top">
       <td width="20%" align="center"
-      bgcolor='#141321'style='color:#fff'>
+      bgcolor='#141321' style='color:#fff'>
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="20%" align="center"
-      bgcolor='#141321'style='color:#fff'>
+      bgcolor='#141321' style='color:#fff'>
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="20%" align="center"
-      bgcolor='#141321'style='color:#fff'>
+      bgcolor='#141321' style='color:#fff'>
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center"
-      bgcolor='#141321'style='color:#fff'>
+      bgcolor='#141321' style='color:#fff'>
         <span>𝗩𝘂𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center"
-      bgcolor='#141321'style='color:#fff'>
+      bgcolor='#141321' style='color:#fff'>
         <span>Node.js</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       <td width="20%" align="center"
-      bgcolor='#141321'style='color:#fff'>
+      bgcolor='#141321' style='color:#fff'>
         <span>Nestjs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
       <td width="20%" align="center"
-      bgcolor='#141321'style='color:#fff'>
+      bgcolor='#141321' style='color:#fff'>
         <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
       </td>
-      <td width="20%" align="center" bgcolor='#141321'style='color:#fff;'>
+      <td width="20%" align="center" bgcolor='#141321' style='color:#fff;'>
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
