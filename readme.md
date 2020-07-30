@@ -1,4 +1,8 @@
 
+*foo*
+ 
+<style>p{color:red;}</style>
+<p><em>foo</em></p>
 ### HI! My name is genaller 😃 
 - 💖 I like front-end development!
 - 🏊🏻‍♂️ I like swimming.
