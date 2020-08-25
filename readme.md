@@ -1,4 +1,4 @@
-### HI! My name is Han Zeng 😃 
+### HI! My name is Genal 😃 
 - 🤟🏻 I like front-end development!
 - 🏊 I like swimming.
 
